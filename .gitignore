@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 *.iml
+.DS_Store
 
 # Log file
 *.log
